@@ -40,7 +40,7 @@ Hi! I'm Robert Correia, an IT student at IF Baiano. I'm passionate about technol
 Tecnologias que utilizo e estudo atualmente — sempre evoluindo na prática.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,nodejs,express,react,html,css,mongodb,git,github,linux&perline=6" alt="JavaScript, TypeScript, C++, Node.js, Express, React, HTML, CSS, MongoDB, Git, GitHub e Linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express,react,html,css,mongodb,git,github,linux&perline=6" alt="JavaScript, TypeScript, C++, Node.js, Express, React, HTML, CSS, MongoDB, Git, GitHub e Linux" />
   <br/>
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord.js" />
 </div>
