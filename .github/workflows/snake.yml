@@ -1,0 +1,29 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Robert-C-Santana
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+
+      - name: Commit updated animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: dist/github-contribution-grid-snake.svg
+          message: "chore: update contribution snake"
