@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 𝑹𝒐𝒃𝒆𝒓𝒕 𝑪𝒐𝒓𝒓𝒆𝒊𝒂
+# Hi, everyone!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A63F2&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+aprendizado;Backend+%7C+Frontend+%7C+Full+Stack;Transformando+ideias+em+projetos" alt="Animação de digitação" />
 
